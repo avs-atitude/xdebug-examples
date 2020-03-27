@@ -1,0 +1,12 @@
+{
+    "name": "dev/curso-xdebug",
+    "authors": [
+        {
+            "name": "Alexandre Souza",
+            "email": "alexandre.souza@uotz.com.br"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
