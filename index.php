@@ -19,6 +19,10 @@
         </li>
 
         <li>
+            <a target="_blank" href="media.php">Média</a>
+        </li>
+
+        <li>
             <a target="_blank" href="pdf.php">PDF</a>
         </li>
 
